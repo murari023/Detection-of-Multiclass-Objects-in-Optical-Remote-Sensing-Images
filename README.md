@@ -26,7 +26,7 @@ Note: Please config the improved orientated response network follows [IORN](http
   All training images of task 2 are divided into 1024×1024 pixel patches by the DOTA development kit  
 ```
 ```
-  Generate train list of all divided images like "train_img_example/train.txt"   
+  You can delete the patches which contain no object. Generate train list of all divided images like "train_img_example/train.txt"   
 ```
 ```
   Change train list path in "cfg/dota.data"  
