@@ -2,7 +2,7 @@
 Detection of Multiclass Objects in Optical Remote Sensing Images [GRSL paper](https://ieeexplore.ieee.org/document/8573851)  
 # Running Environments:
 Ubuntu 16.04
-Anaconda([python 3.6](https://www.anaconda.com/download/#linux))   
+Anaconda([Anaconda3-5.0.1-Linux-x86_64 python 3.6](https://www.anaconda.com/download/#linux))   
 torch 0.4.0a  [Pytorch](https://github.com/pytorch/pytorch#from-source)  
 torchvision [Vision](https://github.com/pytorch/vision)
   
